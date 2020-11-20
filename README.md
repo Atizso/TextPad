@@ -1,2 +1,2 @@
 # TextPad
-Free win form text editor template
+This is a free win form text editor template
